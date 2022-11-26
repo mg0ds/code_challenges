@@ -1,0 +1,6 @@
+Bite 9. Palindromes  ☆
+Write a function to determine if a word or phrase is a palindrome.
+
+Then write a second function to receive a list of words or phrases and determine which item in the list is the longest palindrome.
+
+Take a look at each function's docstring for further requirements as well as the tests.
