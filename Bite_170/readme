@@ -1,0 +1,8 @@
+Bite 170. Analyze McDonald's food data  ☆
+In this Bite you are going to analyze some nutrition facts for McDonald's food, specially calories and proteinic rich options.
+
+The csv file is pre-loaded into the df DataFrame for you.
+
+Check out the docstrings and tests (TESTS tab) for more specifics.
+
+The Python Developers Survey 2018 Results state: Data analysis has become more popular than Web development, growing from 50% in 2017 to 58% in 2018. , so now is the time to learn more Data!
