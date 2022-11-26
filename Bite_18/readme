@@ -1,0 +1,8 @@
+Bite 18. Find the most common word  ☆
+Write a function that returns the most common (non stop)word in this Harry Potter text.
+
+Make sure you convert to lowercase, strip out non-alphanumeric characters and stopwords. Your function should return a tuple of (most_common_word, frequency).
+
+The template code already loads the Harry Potter text and list of stopwords in.
+
+Check the tests for more info - have fun!
