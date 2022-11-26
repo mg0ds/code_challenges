@@ -1,0 +1,12 @@
+Bite 11. Enrich a class with dunder methods  ☆
+Let's enrich an Account class by adding dunder (aka special) methods to support the following:
+
+length of the object: len(acc) returns the number of transactions
+account comparison: acc1 >,<,>=.<=,== acc2 returns a boolean comparing account balances
+indexing: acc[n] shows the nth transaction onaccount (0 based)
+iteration: list(acc) returns a sequence of account transactions
+operator overloading: acc + int and acc - int can be used to add/subtract money (if given incompatible types for these operations, raise a TypeError - note that previously this was a ValueError, but former is more correct for this scenario)
+string representation: str(acc) returns NAME account - balance: INT
+The provided template already does some setup for you.
+
+Check out the tests for more specifics. If you're still new to dunder (magic) methods, here is an article you might find useful. Good luck!
