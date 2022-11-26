@@ -1,0 +1,14 @@
+Bite 3. Word Values  ☆
+Find the dictionary word with the highest value using Scrabble rules.
+
+There are three tasks to complete for this Bite:
+
+Finish the function load_words which creates and returns a list of words from a text file.
+Finish the function calc_word_value which calculates and returns a word's Scrabble value.
+Finish the function max_word_value which finds and returns the dictionary word with the highest score.
+Notes:
+
+The text of the dictionary is downloaded for you and is available with the path contained in the variable DICTIONARY.
+The words in the file are separated by a newline character.
+Letters not found in LETTER_SCORES score zero points.
+Look at the TESTS tab to see what your code needs to pass. Enjoy!
