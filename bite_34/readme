@@ -1,0 +1,6 @@
+Bite 34. Building a Karma app - implement the User class ☆
+This Bite is about implementing a User class that keeps track of karma points received (Bite idea came from our karmabot).
+
+As it is an Advanced Bite we have you look at the tests to figure out the implementation, but we will say that the class uses 3 magic/special/dunder methods and 3 properties.
+
+Good luck and have fun!
